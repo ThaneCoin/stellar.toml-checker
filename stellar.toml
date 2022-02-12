@@ -1,0 +1,40 @@
+	
+FEDERATION_SERVER="https://stellarid.io/federation/"
+	
+ACCOUNTS=["GAOCNOS2AUPGZZ4Q2EF7KAV3BDL5GBKQWUUN3O3OSUYAXLOUM3Z6HICW",
+	
+"GANYFJYD2ENHXZLY4QMJ5QOQCZZSOZXCE46RIJPHQNWENZGUGKNSFO27"]
+	
+[DOCUMENTATION]
+	
+ORG_NAME="ThaneCoin"
+	
+ORG_DBA="ThaneCoin"
+	
+ORG_URL="https://ThaneCoin.io"
+	
+ORG_LOGO="https://thanecoin.io/img/logo.png"
+	
+ORG_KEYBASE="ThaneCoinTPI"
+	
+ORG_TWITTER="ThaneCoinTPI"
+	
+ORG_OFFICIAL_EMAIL="info@thanecoin.io"
+	
+[[CURRENCIES]]
+	
+code="TPI"
+	
+issuer="GAOCNOS2AUPGZZ4Q2EF7KAV3BDL5GBKQWUUN3O3OSUYAXLOUM3Z6HICW"
+	
+display_decimals=7
+	
+name="ThaneCoin TPI"
+	
+desc="DeCentralised Property Market through ThaneCoin TPI"
+	
+fixed_number=21000000
+	
+conditions="There will only ever be 21,000,000 Tokens in existence."
+	
+image="https://thanecoin.io/img/logo.png"
