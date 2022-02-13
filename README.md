@@ -1,2 +1,2 @@
-# stellar.toml-checker
+# stellar.toml-checker.
  
